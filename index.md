@@ -4,7 +4,7 @@ title: I'm Reanna Hightower
 hide: true
 ---
 
-Hi! My name is zas
+Hi! My name is Reanna
 
 ### Development Environment
 

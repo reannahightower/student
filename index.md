@@ -4,7 +4,7 @@ title: I'm Reanna Hightower
 hide: true
 ---
 
-Hello! My name is Reanna
+Hello! My name is Reanna. One fun fact about me is that I speak Spanish.
 
 ### Development Environment
 
